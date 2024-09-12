@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhezhi's Academic Homepage" #"Your Name / Site Title"
+title                    : "Zhezhi's Homepage" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Zhezhi Lei"
 description              : &description "personal description"
