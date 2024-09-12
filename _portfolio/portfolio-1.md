@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "21st China University Robot Competition (Robocon), First Prize (5th)"
+excerpt: "Robot Control | Computer Vision | Leader of Visual Group <br/><img src='/images/21stRobocon.png'>"
 collection: portfolio
 ---
 
