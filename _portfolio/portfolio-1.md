@@ -1,6 +1,6 @@
 ---
 title: "21st China University Robot Competition (Robocon), First Prize (5th)"
-excerpt: "Robot Control \| Computer Vision \| Leader of Visual Group <br/><img src='/images/21stRobocon.png'>"
+excerpt: "Robot Control - Computer Vision - Leader of Visual Group <br/><img src='/images/21stRobocon.png'>"
 collection: portfolio
 ---
 
