@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # <a id="Home"></a> About Me
-My name is Zhezhi Lei. I am persuing my M.S. degree in Computer Engineering at National University of Singapore (NUS), with an expected graduation in December 2024. During my master's studies, I am a member of XXX Lab, supervised by [Professor Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/), where I conducted research on motion planning with uncertainty in multi-agent systems. Before coming to NUS, I received my B.E. degree in Robotics Engineering from Harbin Engineering University, China.
+My name is Zhezhi Lei. I am currently persuing my M.S. degree in Computer Engineering at National University of Singapore (NUS), with an expected graduation in December 2024. During my master's studies, I am a member of XXX Lab, supervised by [Professor Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/), where I conducted research on motion planning with uncertainty in multi-agent systems. Before coming to NUS, I received my B.E. degree in Robotics Engineering from Harbin Engineering University, China.
 
 Currently, I am working on an NUS student research project at Singapore Institute of Manufacturing Technology (SimTech) at the Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), where I collaborate with [Dr. Haiyue Zhu](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ) on projects focusing on object detection in robot grasping.
 
@@ -22,10 +22,12 @@ My research instreset focus on robotics control, multi-agent and robot detection
 # <a id="Experience"></a> Experience
 
 # <a id="Project"></a> Project
+## Highlighted Projects
 {% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+## More Projects
 
 # <a id="Contact"></a> Contact
 
