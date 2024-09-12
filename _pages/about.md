@@ -14,9 +14,18 @@ Currently, I am working on an NUS student research project at Singapore Institut
 # Research Intreset
 My research instreset focus on robotics control, multi-agent and robot detection. 
 
+# Recent Work 
+(Update in September 2024)
+- **In progress**: Object pose detection in robot grasping in the context of stacked workpieces (Supervised by Dr. Haiyue Zhu). Planned for submission to IROS.
+- **Awaiting feedback**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
+
 # <a id="Experience"></a> Experience
 
 # <a id="Project"></a> Project
+{% include base_path %}
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 # <a id="Contact"></a> Contact
 
