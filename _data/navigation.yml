@@ -6,7 +6,7 @@
 
 main:
   - title: "Home"
-    url: "#Home"
+    url: "#About Me"
 
   - title: "Experience"
     url: "#Experience"
