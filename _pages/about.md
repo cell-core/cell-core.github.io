@@ -1,4 +1,3 @@
-<a id="Home"></a>
 ---
 permalink: /
 title: "Hi there, welcome to my homepage!"
