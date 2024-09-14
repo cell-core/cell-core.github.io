@@ -8,6 +8,9 @@ The China University Robot Competition (Robocon), launched in 2002, is an annual
 
 In the 21st competition (held in July 2022), teams were given ten months (Sep 2021 - July 2022) to design and build two robots. The challenge required the robots to knock down and then rebuild two block towers within a specified time. The team that rebuilt the towers more perfectly (with the centers of the blocks fully aligned) and in the shortest time was declared the winner.
 
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV13r4y1L77y?p=3&vd_source=870fbef53255ad18abea405aa3264d46" frameborder="0" allowfullscreen></iframe>
+
+
 ## My Role and Contributions in the Team
 ### Leader of Robot Vision Group
 I was the leader of the robot's vision group, primarily responsible for designing the robot's vision system and implementing vision-assisted object recognition functionality. The recognition algorithm utilized the target's color and shape as features, and Support Vector Machine (SVM) was employed for classification to achieve detection. The final tests showed that both the accuracy and real-time performance met the design requirements. Unfortunately, although the object recognition tasks were completed, the vision-based recognition solution was not used in the final robot due to weight constraints, as the competition imposed strict limits on the robot's weight.

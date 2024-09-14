@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: "The 20th China University Robot Competition (Robocon), Second Prize"
 excerpt: "The 20th China University Robot Competition (Robocon), Second Prize <br/><img src='/images/20thRobocon.png'>"
 collection: portfolio
 ---
