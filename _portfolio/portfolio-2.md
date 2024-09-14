@@ -8,12 +8,12 @@ The China University Robot Competition (Robocon), launched in 2002, is an annual
 
 In the 20th competition (held in July 2021), teams were given ten months (Sep 2020 - July 2021) to design and build two robots. The competition required teams to designate one robot to shoot arrows into target barrels to score points, while the other robot could interfere with the opponent's scoring. The team with the highest score at the end of the time was declared the winner.
 <div align="center">
-    <img src="../images/20thRobocon/20thRobocon.png" alt="The shooter robot" width="60%">
+    <img src="/images/20thRobocon/20thRobocon.png" alt="The shooter robot" width="60%">
     <p>The shooter robot</p>
 </div>
 
 <div align="center">
-    <img src="../images/20thRobocon/DefenderRobot.png" alt="The defender robot" width="60%">
+    <img src="/images/20thRobocon/DefenderRobot.png" alt="The defender robot" width="60%">
     <p>The defender robot</p>
 </div>
 
@@ -27,7 +27,7 @@ Since the competition required robots to shoot arrows into target barrels, the r
 Before joining the vision group to design the robot's vision algorithm, I was involved in the debugging of the robot's chassis, more specifically, controling  the four DJI 3508 motors on the robot's chassis. This work used data collected from encoders to determine the robot's position on the field. Based on the positional information, I also worked on controlling the robot to move along the planned trajectory.
 
 <div align="center">
-    <img src="../images/20thRobocon/20thTeam.png" alt="The shooter robot" width="60%">
+    <img src="/images/20thRobocon/20thTeam.png" alt="The shooter robot" width="80%">
     <p>Photo of all our Robocon team members<br> (I'm in the second row, first from the left)</p>
 </div>
 

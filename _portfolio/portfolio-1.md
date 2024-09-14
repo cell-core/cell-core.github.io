@@ -30,12 +30,12 @@ The following video shows our competition. If the video on the webpage doesn't p
 </div>
 
 <div align="center">
-    <img src="../images/21stRobocon/ShooterRobot.png" alt="The shooter robot" width="60%">
+    <img src="/images/21stRobocon/ShooterRobot.png" alt="The shooter robot" width="60%">
     <p>The shooter robot</p>
 </div>
 
 <div align="center">
-    <img src="../images/21stRobocon/BuilderRobot.png" alt="The shooter robot" width="60%">
+    <img src="/images/21stRobocon/BuilderRobot.png" alt="The shooter robot" width="60%">
     <p>The builder robot</p>
 </div>
 
@@ -51,6 +51,6 @@ During the robot design phase, our team focused on developing specific functiona
 ### Helped with Robot Debugging
 In the early stages of preparation, I participated in the debugging of the robot's vision-related systems, such as serial communication between the host computer and the robot, and the adjustment of the automatic pan-tilt for the fixed camera. Although my vision solution was not implemented in the final robot due to weight constraints, I remained actively involved in the testing of other control systems, including the robot's launching mechanism. Our final success was a result of the collaboration and hard work of all team members.
 <div align="center">
-    <img src="/images/21stRobocon/Team.png" alt="The shooter robot" width="60%">
+    <img src="/images/21stRobocon/Team.png" alt="The shooter robot" width="80%">
     <p>Photo of all our Robocon team members<br> (I'm in the second row, second from the left)</p>
 </div>
