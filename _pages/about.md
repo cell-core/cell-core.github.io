@@ -21,7 +21,7 @@ My research instreset focus on robotics control, multi-agent and robot detection
 
 # <a id="Experience"></a> Education & Experience
 <head>
-<title>Education Background</title>
+
 <style>
 .details {
     display: none;
@@ -30,20 +30,29 @@ My research instreset focus on robotics control, multi-agent and robot detection
     padding: 10px;
     margin-top: 5px;
 }
+.summary {
+    background-color: #e9e9e9;
+    padding: 10px;
+    margin-top: 5px;
+}
 </style>
 </head>
 <body>
 
 <h2>Education Background</h2>
+<div class="summary">
+    <strong>M.S. School:</strong> National University of Singapore<br>
+    <strong>Major:</strong> Computer Engineering<br>
+    <strong>Time:</strong> August 2023 - December 2024 (expected)<br>
+    <strong>GPA:</strong> 4.55/5
+</div>
 <button onclick="toggleDetails('educationDetails')">View More/Less</button>
 <div id="educationDetails" class="details">
-    <strong>Summary:</strong>
-    <p>Bachelor in Electrical Engineering, XYZ University</p>
     <strong>Detailed Experience:</strong>
     <ul>
-        <li>Participated in robotics research projects at ABC Lab (2019-2021)</li>
-        <li>Completed a graduation project on autonomous navigation systems for drones</li>
-        <li>Served as a research assistant at DEF Lab, focusing on embedded systems development</li>
+        <li>Participated in advanced robotics research projects focusing on AI applications.</li>
+        <li>Developed software for autonomous drones as part of a capstone project.</li>
+        <li>Contributed to open-source projects relevant to real-time data processing.</li>
     </ul>
 </div>
 
