@@ -30,21 +30,26 @@ The following video shows our competition. If the video on the webpage doesn't p
 </div>
 
 <div align="center">
+    <img src="../images/21stRobocon/ShooterRobot.png" alt="The shooter robot" width="60%">
+    <p>The shooter robot</p>
+</div>
 
-<img src="/images/21stRobocon/ShooterRobot.png" alt="The "shooter" robot" width="80%"/>
-
-<img src="/images/21stRobocon/BuilderRobot.png" alt="The "builder" robot" width="80%"/>
-
-# <p>图1. 图片说明文字</p>
-
+<div align="center">
+    <img src="../images/21stRobocon/BuilderRobot.png" alt="The shooter robot" width="60%">
+    <p>The builder robot</p>
 </div>
 
 ## My Role and Contributions in the Team
 ### Leader of Robot Vision Group
 I was the leader of the robot's vision group, primarily responsible for designing the robot's vision system and implementing vision-assisted object recognition functionality. The recognition algorithm utilized the target's color and shape as features, and Support Vector Machine (SVM) was employed for classification to achieve detection. The final tests showed that both the accuracy and real-time performance met the design requirements. Unfortunately, although the object recognition tasks were completed, the vision-based recognition solution was not used in the final robot due to weight constraints, as the competition imposed strict limits on the robot's weight.
+<div align="center">
+    <img src="../images/21stRobocon/Team.png" alt="The shooter robot" width="60%">
+    <p>Photo of all our Robocon team members<br> (I'm in the second row, second from the left)</p>
+</div>
 
 ### Participated in Robot Function Design
 During the robot design phase, our team focused on developing specific functionalities tailored to the robot's tasks. Many great design ideas were proposed and implemented during this process. My suggestions primarily focused on components related to the robot's vision system, such as the requirements for camera installation and positioning. I also contributed my thoughts during discussions on other functionalities.
+
 
 ### Helped with Robot Debugging
 In the early stages of preparation, I participated in the debugging of the robot's vision-related systems, such as serial communication between the host computer and the robot, and the adjustment of the automatic pan-tilt for the fixed camera. Although my vision solution was not implemented in the final robot due to weight constraints, I remained actively involved in the testing of other control systems, including the robot's launching mechanism. Our final success was a result of the collaboration and hard work of all team members.
