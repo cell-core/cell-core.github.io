@@ -8,7 +8,7 @@ The China University Robot Competition (Robocon), launched in 2002, is an annual
 
 In the 21st competition (held in July 2022), teams were given ten months (Sep 2021 - July 2022) to design and build two robots. The challenge required the robots to knock down and then rebuild two block towers within a specified time. The team that rebuilt the towers more perfectly (with the centers of the blocks fully aligned) and in the shortest time was declared the winner.
 
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV13r4y1L77y?p=3&vd_source=870fbef53255ad18abea405aa3264d46" frameborder="0" allowfullscreen></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=771253778&bvid=BV13r4y1L77y&cid=784377685&p=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 ## My Role and Contributions in the Team
