@@ -20,15 +20,15 @@ My research instreset focus on robotics control, multi-agent and robot detection
 - **Awaiting feedback**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
 
 # <a id="Experience"></a> Education & Experience
-<html>
 <head>
+<meta charset="UTF-8">
 <style>
 .details {
+    display: none;
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 0 10px;
-    max-height: 0;
-    transition: max-height 0.5s ease-out; /* 使用max-height和过渡效果实现滑动效果 */
+    padding: 10px;
+    margin-top: 5px;
 }
 .summary {
     background-color: #e9e9e9;
@@ -47,7 +47,7 @@ My research instreset focus on robotics control, multi-agent and robot detection
 </div>
 <button onclick="toggleDetails('educationDetails')">View More/Less</button>
 <div id="educationDetails" class="details">
-    <p><strong>Detailed Experience:</strong></p>
+    <strong>Detailed Experience:</strong>
     <ul>
         <li>Participated in advanced robotics research projects focusing on AI applications.</li>
         <li>Developed software for autonomous drones as part of a capstone project.</li>
@@ -58,16 +58,15 @@ My research instreset focus on robotics control, multi-agent and robot detection
 <script>
 function toggleDetails(id) {
     var element = document.getElementById(id);
-    if (element.style.maxHeight && element.style.maxHeight !== '0px') {
-        element.style.maxHeight = '0';
+    if (element.style.display === 'block') {
+        element.style.display = 'none';
     } else {
-        element.style.maxHeight = element.scrollHeight + 'px'; // 设置为实际高度以实现展开
+        element.style.display = 'block';
     }
 }
 </script>
 
 </body>
-</html>
 function toggleDetails(id) {
     var element = document.getElementById(id);
     if (element.style.display === 'block') {
