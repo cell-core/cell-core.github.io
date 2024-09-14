@@ -23,11 +23,11 @@ My research instreset focus on robotics control, multi-agent and robot detection
 <head>
 <style>
 .details {
-    display: none;
     overflow: hidden;
     background-color: #f1f1f1;
-    padding: 10px;
-    margin-top: 5px;
+    padding: 0 10px;
+    max-height: 0;
+    transition: max-height 0.5s ease-out; /* 使用max-height和过渡效果实现滑动效果 */
 }
 .summary {
     background-color: #e9e9e9;
@@ -47,7 +47,7 @@ My research instreset focus on robotics control, multi-agent and robot detection
 </div>
 <button onclick="toggleDetails('educationDetails')">View More/Less</button>
 <div id="educationDetails" class="details">
-    <strong>Detailed Experience:</strong>
+    <p><strong>Detailed Experience:</strong></p>
     <ul>
         <li>Participated in advanced robotics research projects focusing on AI applications.</li>
         <li>Developed software for autonomous drones as part of a capstone project.</li>
@@ -58,10 +58,10 @@ My research instreset focus on robotics control, multi-agent and robot detection
 <script>
 function toggleDetails(id) {
     var element = document.getElementById(id);
-    if (element.style.display === 'block') {
-        element.style.display = 'none';
+    if (element.style.maxHeight && element.style.maxHeight !== '0px') {
+        element.style.maxHeight = '0';
     } else {
-        element.style.display = 'block';
+        element.style.maxHeight = element.scrollHeight + 'px'; // 设置为实际高度以实现展开
     }
 }
 </script>
