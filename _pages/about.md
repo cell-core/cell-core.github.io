@@ -21,33 +21,34 @@ My research instreset focus on robotics control, multi-agent and robot detection
 
 # <a id="Experience"></a> Education & Experience
 <head>
-<title>Clickable Dropdown</title>
+<title>Education Background</title>
 <style>
-/* 初始化样式 */
-.dropdown-content {
+.details {
     display: none;
     overflow: hidden;
-    background-color: #f9f9f9;
+    background-color: #f1f1f1;
     padding: 10px;
+    margin-top: 5px;
 }
 </style>
 </head>
 <body>
 
-<h2>Clickable Dropdown</h2>
-<p>Click the botten to extend the list</p>
-
-<div>
-    <button onclick="toggleDropdown('demo')">Click me to extend / fold</button>
-    <div id="demo" class="dropdown-content">
-        <p>info1</p>
-        <p>info2</p>
-        <p>info3</p>
-    </div>
+<h2>Education Background</h2>
+<button onclick="toggleDetails('educationDetails')">View More/Less</button>
+<div id="educationDetails" class="details">
+    <strong>Summary:</strong>
+    <p>Bachelor in Electrical Engineering, XYZ University</p>
+    <strong>Detailed Experience:</strong>
+    <ul>
+        <li>Participated in robotics research projects at ABC Lab (2019-2021)</li>
+        <li>Completed a graduation project on autonomous navigation systems for drones</li>
+        <li>Served as a research assistant at DEF Lab, focusing on embedded systems development</li>
+    </ul>
 </div>
 
 <script>
-function toggleDropdown(id) {
+function toggleDetails(id) {
     var element = document.getElementById(id);
     if (element.style.display === 'block') {
         element.style.display = 'none';
