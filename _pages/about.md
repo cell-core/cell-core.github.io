@@ -21,7 +21,6 @@ My research instreset focus on robotics control, multi-agent and robot detection
 
 # <a id="Experience"></a> Education & Experience
 <head>
-<meta charset="UTF-8">
 <style>
 .details {
     display: none;
@@ -39,6 +38,7 @@ My research instreset focus on robotics control, multi-agent and robot detection
 </head>
 <body>
 
+<h2>Education Background</h2>
 <div class="summary">
     <strong>M.S. School:</strong> National University of Singapore<br>
     <strong>Major:</strong> Computer Engineering<br>
@@ -56,17 +56,6 @@ My research instreset focus on robotics control, multi-agent and robot detection
 </div>
 
 <script>
-function toggleDetails(id) {
-    var element = document.getElementById(id);
-    if (element.style.display === 'block') {
-        element.style.display = 'none';
-    } else {
-        element.style.display = 'block';
-    }
-}
-</script>
-
-</body>
 function toggleDetails(id) {
     var element = document.getElementById(id);
     if (element.style.display === 'block') {
