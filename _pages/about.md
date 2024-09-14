@@ -21,7 +21,6 @@ My research instreset focus on robotics control, multi-agent and robot detection
 
 # <a id="Experience"></a> Education & Experience
 <head>
-<meta charset="UTF-8">
 <style>
 .details {
     overflow: hidden;
