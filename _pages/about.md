@@ -20,6 +20,7 @@ My research instreset focus on robotics control, multi-agent and robot detection
 - **Awaiting feedback**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
 
 # <a id="Experience"></a> Education & Experience
+<html>
 <head>
 <style>
 .details {
@@ -66,6 +67,7 @@ function toggleDetails(id) {
 </script>
 
 </body>
+</html>
 function toggleDetails(id) {
     var element = document.getElementById(id);
     if (element.style.display === 'block') {
