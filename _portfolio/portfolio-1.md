@@ -1,6 +1,6 @@
 ---
 title: "The 21st China University Robot Competition (Robocon), First Prize (5th)"
-excerpt: "Robot Control - Computer Vision - Leader of Visual Group <br/><img src='/images/21stRobocon.png'>"
+excerpt: "Robot Control - Computer Vision - Leader of Visual Group <br/><img src='/images/21stRobocon/21stRobocon.png'>"
 collection: portfolio
 ---
 ## About the 21st Robocon Competition
@@ -8,10 +8,11 @@ The China University Robot Competition (Robocon), launched in 2002, is an annual
 
 In the 21st competition (held in July 2022), teams were given ten months (Sep 2021 - July 2022) to design and build two robots. The challenge required the robots to knock down and then rebuild two block towers within a specified time. The team that rebuilt the towers more perfectly (with the centers of the blocks fully aligned) and in the shortest time was declared the winner.
 
+The following video shows our competition. If the video on the webpage doesn't play properly, please try [this link](https://www.bilibili.com/video/BV13r4y1L77y?p=3&vd_source=870fbef53255ad18abea405aa3264d46). (Highlighted key moments in the video: 00:10 - competition starts; 01:00 - building the first tower; 01:45 - building the second tower; 02:25 - game finishs).
 <style>
     .responsive-iframe-container {
         position: relative;
-        width: 80%;        /* 容器宽度为100% */
+        width: 100%;        /* 容器宽度为100% */
         height: 0;
         padding-bottom: 56.25%; /* 保持16:9的宽高比 */
     }
@@ -25,9 +26,18 @@ In the 21st competition (held in July 2022), teams were given ten months (Sep 20
 </style>
 
 <div class="responsive-iframe-container">
-    <iframe class="responsive-iframe" src="//player.bilibili.com/player.html?isOutside=true&aid=771253778&bvid=BV13r4y1L77y&cid=784377685&p=3" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
+    <iframe class="responsive-iframe" src="//player.bilibili.com/player.html?isOutside=true&aid=813863581&bvid=BV1XG4y1i7oG&cid=783836404&p=1" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
 </div>
 
+<div align="center">
+
+<img src="/images/21stRobocon/ShooterRobot.png" alt="The "shooter" robot" width="80%"/>
+
+<img src="/images/21stRobocon/BuilderRobot.png" alt="The "builder" robot" width="80%"/>
+
+# <p>图1. 图片说明文字</p>
+
+</div>
 
 ## My Role and Contributions in the Team
 ### Leader of Robot Vision Group
