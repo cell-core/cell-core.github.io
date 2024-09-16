@@ -194,7 +194,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
         object-fit: cover;  /* 确保图片在调整大小时保持宽高比 */
       }
       .project .date-icon { /* 特定的日历图标样式 */
-        width: 20px; 
+        width: 25px; 
         height: auto;
         margin-right: 8px;
       }
