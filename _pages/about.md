@@ -201,30 +201,30 @@ My research instreset focus on robotics control, multi-agent and computer vision
 </head>
 <div class="project" id="project0">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></strong></p>
-  <!-- <div class="logo-container">
+  <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo">
     <span>Sep 2023 - Jul 2024</span>
-  </div> -->
+  </div>
   <p>Key words: Autonomous driving; multi-agent navigation; motion planning</p>
   <img src="/images/ACL/ACL.png">
 </div>
 
 <div class="project" id="project1">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-1">The 21st China University Robot Competition (Robocon), First Prize (5th)</a></strong></p>
-  <!-- <div class="logo-container">
+  <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo">
     <span>Sep 2021 - Jul 2022</span>
-  </div> -->
+  </div>
   <p>Key words: Robot design & control; computer vision</p>
   <img src="/images/21stRobocon/21stRobocon.png">
 </div>
 
 <div class="project" id="project2">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-2">The 20th China University Robot Competition (Robocon), Second Prize</a></strong></p>
-  <!-- <div class="logo-container">
+  <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo">
     <span>Sep 2020 - Jul 2021</span>
-  </div> -->
+  </div>
   <p>Key words: Robot design & control; computer vision</p>
   <img src="/images/20thRobocon/20thRobocon.png">
 </div>
@@ -232,20 +232,20 @@ My research instreset focus on robotics control, multi-agent and computer vision
 # More Projects
 <div class="project">
   <p><strong>Robot grasping in complex environment</strong></p>
-  <!-- <div class="logo-container">
+  <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo">
     <span>Jun 2024 - Present</span>
-  </div> -->
+  </div>
   <p>Key words: Robot grasping; Object detection</p>
   <p>Abstract: In practical applications, robot arms often face issues of target occlusion in complex environments. This work aims to design a grasping algorithm that allows the robot arm to identify targets in real-world scenarios and has the capability to reason about object occlusion relationships, enabling the arm to correctly remove obstacles and grasp the target.</p>
 </div>
 
 <div class="project">
   <p><strong>Human-computer dialogue system</strong></p>
-  <!-- <div class="logo-container">
+  <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo">
     <span>Jun 2022 - May 2023</span>
-  </div> -->
+  </div>
   <p>Key words: Natural language processing</p>
   <p>Abstract: A human-machine dialogue system was built for weather inquiries. The system can search for weather information based on user intent, actively guide users to complete their inquiry details, and support multi-turn dialogue. Even though Chat GPT is very popular today, by designing this system from scratch, I was able to gain a deep understanding of the principles and best practices in human-machine interaction. </p>
 </div>
