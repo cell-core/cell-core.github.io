@@ -23,8 +23,8 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <head>
     <style>
         .education-block {
-            margin-top: 30px; /* 上边距 */
-            margin-bottom: 30px; /* 下边距 */
+            margin-top: 20px; /* 上边距 */
+            margin-bottom: 20px; /* 下边距 */
         }
         .extra-space {
             margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
@@ -42,6 +42,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
         details {
             margin-top: -17px; /* 控制details元素上方的间距 */
             margin-bottom: 16px; /* 控制details元素下方的间距 */
+            margin-left: 20px;
         }
         details details { /* 为嵌套的details设置样式，以区别于一级details */
             margin-left: 20px;
@@ -55,7 +56,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
       <img src="/images/favicon.png" alt="NUS Logo" class="logo">
       <span><strong>National University of Singapore, 2023 - Present</strong></span>
   </div>
-  <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
+  <p>M.S. in Computer Engineering | GPA: 4.56/5 | <a href="/files/NUS_Transcript.pdf">View Transcript</a></p>
 
 
   <details>
@@ -67,7 +68,6 @@ My research instreset focus on robotics control, multi-agent and computer vision
         <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
       </ul>
     </details>
-
     <details>
       <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
       <ul>
@@ -83,7 +83,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
       <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
       <span><strong>Harbin Engineering University, 2019 - 2023</strong></span>
   </div>
-  <p>B.E. in Robotics Engineering | GPA: 89/100</p>
+  <p>B.E. in Robotics Engineering | GPA: 89/100 | <a href="/files/HEU_Transcript.pdf">View Transcript</a></p>
 
   <details>
     <p><strong>Experience during undergraduate studies:</strong></p>
@@ -95,7 +95,6 @@ My research instreset focus on robotics control, multi-agent and computer vision
         <li>Awarded First Prize (5th overall) at the 21st China University Robot Competition (ROBOCON).</li>
       </ul>
     </details>
-
     <details>
       <summary>2020 - 2021. Member of Harbin Engineering University Robotics Club</summary>
       <ul>
