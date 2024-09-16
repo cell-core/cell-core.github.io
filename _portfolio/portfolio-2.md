@@ -3,6 +3,21 @@ title: "The 20th China University Robot Competition (Robocon), Second Prize"
 excerpt: "The 20th China University Robot Competition (Robocon), Second Prize <br/><img src='/images/20thRobocon/20thRobocon.png'>"
 collection: portfolio
 ---
+<head>
+    <style>
+        .logo-container {
+          display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
+          align-items: center; /* 确保logo与文字垂直居中对齐 */
+        }
+        .logo {
+          width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+          height: auto;
+          margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+          vertical-align: middle;
+        }
+    </style>
+</head>
+
 <div class="logo-container">
 <img src="/images/calendar.png" alt="Date Icon" class="logo">
 <span>Sep 2020 - Jul 2021</span>
