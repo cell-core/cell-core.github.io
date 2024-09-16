@@ -23,26 +23,26 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <head>
     <style>
         .education-block {
-            margin-top: 20px; /* 上边距 */
-            margin-bottom: 25px; /* 下边距 */
+          margin-top: 20px; /* 上边距 */
+          margin-bottom: 25px; /* 下边距 */
         }
         .extra-space {
-            margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
+          margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
         }
         .logo-container {
-            display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
-            align-items: center; /* 确保logo与文字垂直居中对齐 */
+          display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
+          align-items: center; /* 确保logo与文字垂直居中对齐 */
         }
         .logo {
-            width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
-            height: auto;
-            margin-right: 8px; /* 控制 logo 和文字之间的间距 */
-            vertical-align: middle;
+          width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+          height: auto;
+          margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+          vertical-align: middle;
         }
         details {
-            margin-top: -17px; /* 控制details元素上方的间距 */
-            margin-bottom: 16px; /* 控制details元素下方的间距 */
-            margin-left: 20px;
+          margin-top: -17px; /* 控制details元素上方的间距 */
+          margin-bottom: 16px; /* 控制details元素下方的间距 */
+          margin-left: 20px;
         }
         details details { /* 为嵌套的details设置样式，以区别于一级details */
             margin-left: 20px;
@@ -60,6 +60,12 @@ My research instreset focus on robotics control, multi-agent and computer vision
         }
         .courses-table th {
           background-color: #f2f2f2;
+        }
+        .courses-table td:nth-child(1), .courses-table td:nth-child(3) {
+          width: 35%; /* 调整课程名称的列宽为35% */
+        }
+        .courses-table td:nth-child(2), .courses-table td:nth-child(4) {
+          width: 15%; /* 调整成绩的列宽为15% */
         }
     </style>
 </head>
@@ -212,6 +218,11 @@ My research instreset focus on robotics control, multi-agent and computer vision
 </div>
 
 # More Projects
+<div class="project">
+  <p><strong>Robot grasping in complex environment</strong></p>
+  <p>Key words: Robot grasping; Object detection</p>
+  <p>Abstract: In practical applications, robot arms often face issues of target occlusion in complex environments. This work aims to design a grasping algorithm that allows the robot arm to identify targets in real-world scenarios and has the capability to reason about object occlusion relationships, enabling the arm to correctly remove obstacles and grasp the target.</p>
+</div>
 
 # <a id="Contact"></a> Contact
 Email: lei_zhezhi@u.nus.edu
