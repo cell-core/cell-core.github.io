@@ -15,8 +15,8 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 # Recent Work 
 (Update in September 2024)
-- **In progress**: Object pose detection in robot grasping in the context of stacked workpieces (Supervised by Dr. Haiyue Zhu). Planned for submission to IROS.
-- **Under review**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
+- **In progress**: Object pose detection in robot grasping in the context of stacked workpieces. Planned for submission to IROS.
+- **Under review**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024.
 
 # <a id="Experience"></a> Education & Experience
 
@@ -48,6 +48,19 @@ My research instreset focus on robotics control, multi-agent and computer vision
             margin-left: 20px;
             /*margin-top: 10px;*/
         }
+        .courses-table {
+          width: 100%;
+          border-collapse: collapse;
+          table-layout: fixed;
+        }
+        .courses-table td, .courses-table th {
+          border: 1px solid #ddd;
+          padding: 8px;
+          text-align: left;
+        }
+        .courses-table th {
+          background-color: #f2f2f2;
+        }
     </style>
 </head>
 
@@ -56,18 +69,33 @@ My research instreset focus on robotics control, multi-agent and computer vision
       <img src="/images/favicon.png" alt="NUS Logo" class="logo">
       <span><strong>National University of Singapore, 2023 - Present</strong></span>
   </div>
-  <p>M.S. in Computer Engineering | GPA: 4.56/5 | <a href="/files/NUS_Transcript.pdf">View Transcript</a></p>
+  <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
 
   <details>
-    <summary>Course details </summary>
-    <ul>
-      <li>Computer Engineering Project -- A+</li>
-      <li>Intelligent Autonomous Robotics Systems -- A+</li>
-      <li>Computer Engineering Project -- A+</li>
-      <li>Evolutionary Computation And Application -- A-</li>
-      <li>Deep Learning For Digitalization Technologies -- A-</li>
-    </ul>
+    <summary>Course details</summary>
+    <style>
+    </style>
+    <table class="courses-table">
+      <tr>
+        <th>Course Name</th>
+        <th>Grade</th>
+        <th>Course Name</th>
+        <th>Grade</th>
+      </tr>
+      <tr>
+        <td>Computer Engineering Project</td>
+        <td>A+</td>
+        <td>Intelligent Autonomous Robotics Systems</td>
+        <td>A+</td>
+      </tr>
+      <tr>
+        <td>Evolutionary Computation And Application</td>
+        <td>A-</td>
+        <td>Deep Learning For Digitalization Technologies</td>
+        <td>A-</td>
+      </tr>
+    </table>
   </details>
 
   <details>
@@ -95,7 +123,33 @@ My research instreset focus on robotics control, multi-agent and computer vision
       <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
       <span><strong>Harbin Engineering University, 2019 - 2023</strong></span>
   </div>
-  <p>B.E. in Robotics Engineering | GPA: 89/100 | <a href="/files/HEU_Transcript.pdf">View Transcript</a></p>
+  <p>B.E. in Robotics Engineering | GPA: 89/100</p>
+
+  <details>
+    <summary>Course details</summary>
+    <style>
+    </style>
+    <table class="courses-table">
+      <tr>
+        <th>Course Name</th>
+        <th>Grade</th>
+        <th>Course Name</th>
+        <th>Grade</th>
+      </tr>
+      <tr>
+        <td>Mathematical Analysis for Engineering</td>
+        <td>97 / 100</td>
+        <td>Machine Learning</td>
+        <td>95 / 100</td>
+      </tr>
+      <tr>
+        <td>Modern Control Theroy</td>
+        <td>95 / 100</td>
+        <td>Advanced Control Method</td>
+        <td>95 / 100</td>
+      </tr>
+    </table>
+  </details>
 
   <details>
     <summary>Experience details </summary>
@@ -122,16 +176,42 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 
 # <a id="Project"></a> Highlighted Projects
+<head>
+    <style>
+        .project {
+            margin: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+        .project p {
+            font-size: 14px;
+            color: #666;
+        }
+        .project img {
+            width: 300px;  /* 设置图片宽度 */
+            height: 200px; /* 设置图片高度 */
+            object-fit: cover;  /* 确保图片在调整大小时保持宽高比 */
+        }
+    </style>
+</head>
 <div class="project">
-  <h2><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></h2>
+  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></strong></p>
   <p>Breif Intro</p>
-  <img src="/images/cell-core.github.io/images/500x300.png">
+  <img src="/images/500x300.png">
 </div>
 
-{% include base_path %}
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="project">
+  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-1">The 21st China University Robot Competition (Robocon), First Prize (5th)</a></strong></p>
+  <p>Breif Intro</p>
+  <img src="/images/21stRobocon/21stRobocon.png">
+</div>
+
+<div class="project">
+  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-2">The 20th China University Robot Competition (Robocon), Second Prize</a></strong></p>
+  <p>Breif Intro</p>
+  <img src="/images/20thRobocon/20thRobocon.png">
+</div>
 
 # More Projects
 
