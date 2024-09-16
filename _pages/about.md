@@ -34,6 +34,10 @@ My research instreset focus on robotics control, multi-agent and computer vision
             margin-right: 8px; /* 控制 logo 和文字之间的间距 */
             vertical-align: middle;
         }
+        details {
+            margin-top: -15px; /* 控制details元素上方的间距 */
+            margin-bottom: 16px; /* 控制details元素下方的间距 */
+        }
         details details { /* 为嵌套的details设置样式，以区别于一级details */
             margin-left: 20px;
             margin-top: 10px;
@@ -70,7 +74,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 </details>
 
 
-<div class="logo-container extra-space">
+<div class="logo-container">
     <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
     <span><strong>Harbin Engineering University, 2019 - 2023</strong></span>
 </div>
