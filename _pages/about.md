@@ -19,7 +19,28 @@ My research instreset focus on robotics control, multi-agent and computer vision
 - **Under review**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
 
 # <a id="Experience"></a> Education & Experience
-<p><strong>National University of Singapore, 2023 - Present</strong></p>
+<head>
+    <style>
+        .extra-space {
+            margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
+        }
+        .logo-container {
+            display: flex; /* 使用flex布局，使logo和文字保持在同一行 */
+            align-items: center; /* 确保logo与文字垂直居中对齐 */
+        }
+        .logo {
+            width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+            height: auto;
+            margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+        }
+    </style>
+</head>
+
+
+<div class="logo-container">
+    <img src="/images/favicon.ico" alt="NUS Logo" class="logo">
+    <p><strong>National University of Singapore, 2023 - Present</strong></p>
+</div>
 <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
 <p><strong>Experience during master's studies:</strong></p>
@@ -41,11 +62,12 @@ My research instreset focus on robotics control, multi-agent and computer vision
   </ul>
 </details>
 
-.extra-space {
-  margin-top: 30px; /* 调整为合适的间距大小 */
-}
 
-<p class="extra-space"><strong>Harbin Engineering University, 2019 - 2023</strong></p>
+
+<div class="logo-container extra-space">
+    <img src="/images/favicon.ico" alt="Harbin Engineering University Logo" class="logo">
+    <p><strong>Harbin Engineering University, 2019 - 2023</strong></p>
+</div>
 <p>B.E. in Robotics Engineering | GPA: 89/100</p>
 
 <p><strong>Experience during undergraduate studies:</strong></p>
