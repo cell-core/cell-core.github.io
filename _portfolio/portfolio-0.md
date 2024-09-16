@@ -3,6 +3,27 @@ title: "Safe motion planning for multi-vehicle autonomous driving in uncertain e
 excerpt: "First Author; Paper submitted to RAL on 15 August <br/><img src='/images/21stRobocon.png'>"
 collection: portfolio
 ---
+<head>
+    <style>
+        .logo-container {
+          display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
+          align-items: center; /* 确保logo与文字垂直居中对齐 */
+        }
+        .logo {
+          width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+          height: auto;
+          margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+          vertical-align: middle;
+        }
+    </style>
+</head>
+
+<div class="logo-container">
+<img src="/images/calendar.png" alt="Date Icon" class="logo">
+<span>Sep 2023 - Jul 2024</span>
+</div>
+<p><strong>Key words:</strong> Autonomous driving; multi-agent navigation; motion planning</p>
+
 ## Problem to Solve
 This academic research was conducted during my master's studies (August 2023 - August 2024) under the supervision of Professor Shuzhi Sam Ge. The focus of the research is on motion planning for multi-agent systems, considering uncertainty in position. This uncertainty can arise from sensor noise and inaccuracies in data transmission. In addition to the uncertainty, computational burden is a significant challenge, particularly in large-scale problems, and the presence of uncertainty further increases the computational load.
 

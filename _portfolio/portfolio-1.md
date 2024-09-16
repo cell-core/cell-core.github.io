@@ -3,6 +3,27 @@ title: "The 21st China University Robot Competition (Robocon), First Prize (5th)
 excerpt: "Robot Control - Computer Vision - Leader of Visual Group <br/><img src='/images/21stRobocon/21stRobocon.png'>"
 collection: portfolio
 ---
+<head>
+    <style>
+        .logo-container {
+          display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
+          align-items: center; /* 确保logo与文字垂直居中对齐 */
+        }
+        .logo {
+          width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+          height: auto;
+          margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+          vertical-align: middle;
+        }
+    </style>
+</head>
+
+<div class="logo-container">
+<img src="/images/calendar.png" alt="Date Icon" class="logo">
+<span>Sep 2021 - Jul 2022</span>
+</div>
+<p><strong>Key words:</strong> Robot design & control; computer vision</p>
+
 ## About the 21st Robocon Competition
 The China University Robot Competition (Robocon), launched in 2002, is an annual event where the winning team represents China in the Asia-Pacific Robot Contest (ABU ROBOCON). It is considered the most technically challenging and influential university robot competition in China.
 
