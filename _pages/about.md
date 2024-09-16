@@ -40,7 +40,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 <div class="logo-container">
     <img src="/images/favicon.png" alt="NUS Logo" class="logo">
-    <p><strong>National University of Singapore, 2023 - Present</strong></p>
+    <span><strong>National University of Singapore, 2023 - Present</strong></span>
 </div>
 <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
@@ -67,7 +67,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 <div class="logo-container extra-space">
     <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
-    <p><strong>Harbin Engineering University, 2019 - 2023</strong></p>
+    <span><strong>Harbin Engineering University, 2019 - 2023</strong></span>
 </div>
 <p>B.E. in Robotics Engineering | GPA: 89/100</p>
 
