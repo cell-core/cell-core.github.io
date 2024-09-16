@@ -23,8 +23,8 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <head>
     <style>
         .education-block {
-            margin-top: 50px; /* 上边距 */
-            margin-bottom: 50px; /* 下边距 */
+            margin-top: 30px; /* 上边距 */
+            margin-bottom: 30px; /* 下边距 */
         }
         .extra-space {
             margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
