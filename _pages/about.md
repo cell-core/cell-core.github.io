@@ -24,7 +24,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
     <style>
         .education-block {
             margin-top: 20px; /* 上边距 */
-            margin-bottom: 20px; /* 下边距 */
+            margin-bottom: 25px; /* 下边距 */
         }
         .extra-space {
             margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
@@ -60,6 +60,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 
   <details>
+    <summary>Experience details </summary>
     <p><strong>Experience during master's studies:</strong></p>
     <details>
       <summary>2024 - Present. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
@@ -86,6 +87,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
   <p>B.E. in Robotics Engineering | GPA: 89/100 | <a href="/files/HEU_Transcript.pdf">View Transcript</a></p>
 
   <details>
+    <summary>Experience details </summary>
     <p><strong>Experience during undergraduate studies:</strong></p>
     <details>
       <summary>2021 - 2022. Lead of the Robot Vision Group, Harbin Engineering University Robotics Club</summary>
@@ -108,13 +110,13 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 
 
-# <a id="Project"></a> Project
-## Highlighted Projects
+# <a id="Project"></a> Highlighted Projects
 {% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-## More Projects
+
+# More Projects
 
 # <a id="Contact"></a> Contact
 Email: lei_zhezhi@u.nus.edu
