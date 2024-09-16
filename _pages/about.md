@@ -111,6 +111,12 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 
 # <a id="Project"></a> Highlighted Projects
+<div class="project">
+  <h2><a href="https://cell-core.github.io/portfolio/portfolio-0.html">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></h2>
+  <p>Breif Intro</p>
+  <img src="/images/cell-core.github.io/images/500x300.png">
+</div>
+
 {% include base_path %}
 {% for post in site.portfolio %}
   {% include archive-single.html %}
