@@ -25,13 +25,14 @@ My research instreset focus on robotics control, multi-agent and computer vision
             margin-top: 30px; /* 根据需要调整这个数值来增加间距 */
         }
         .logo-container {
-            display: flex; /* 使用flex布局，使logo和文字保持在同一行 */
+            display: inline-flex; /* 使用flex布局，使logo和文字保持在同一行 */
             align-items: center; /* 确保logo与文字垂直居中对齐 */
         }
         .logo {
             width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
             height: auto;
             margin-right: 8px; /* 控制 logo 和文字之间的间距 */
+            vertical-align: middle;
         }
     </style>
 </head>
