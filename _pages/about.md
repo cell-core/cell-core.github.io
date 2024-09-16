@@ -187,7 +187,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
           align-items: center; /* 确保logo与文字垂直居中对齐 */
         }
         .logo {
-          width: 20px; /* 控制 logo 的宽度，根据需要调整大小 */
+          width: 5px; /* 控制 logo 的宽度，根据需要调整大小 */
           height: auto;
           margin-right: 8px; /* 控制 logo 和文字之间的间距 */
           vertical-align: middle;
