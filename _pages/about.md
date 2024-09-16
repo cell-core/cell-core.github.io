@@ -89,15 +89,15 @@ My research instreset focus on robotics control, multi-agent and computer vision
         <th>Grade</th>
       </tr>
       <tr>
-        <td>Computer Engineering Project</td>
+        <td><a href="https://nusmods.com/courses/CEG5003/computer-engineering-project">Computer Engineering Project</a></td>
         <td>A+</td>
-        <td>Intelligent Autonomous Robotics Systems</td>
+        <td><a href="https://nusmods.com/courses/CEG5303/intelligent-autonomous-robotic-systems">Intelligent Autonomous Robotics Systems</a></td>
         <td>A+</td>
       </tr>
       <tr>
-        <td>Evolutionary Computation And Application</td>
+        <td><a href="https://nusmods.com/courses/CEG5302/evolutionary-computation-and-applications">Evolutionary Computation And Application</a></td>
         <td>A-</td>
-        <td>Deep Learning For Digitalization Technologies</td>
+        <td><a href="https://nusmods.com/courses/CEG5304/deep-learning-for-digitalization-technologies">Deep Learning For Digitalization Technologies</a></td>
         <td>A-</td>
       </tr>
     </table>
