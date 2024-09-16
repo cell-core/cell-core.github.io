@@ -41,7 +41,11 @@ My research instreset focus on robotics control, multi-agent and computer vision
   </ul>
 </details>
 
-<p><strong>Harbin Engineering University, 2019 - 2023</strong></p>
+.extra-space {
+  margin-top: 30px; /* 调整为合适的间距大小 */
+}
+
+<p class="extra-space"><strong>Harbin Engineering University, 2019 - 2023</strong></p>
 <p>B.E. in Robotics Engineering | GPA: 89/100</p>
 
 <p><strong>Experience during undergraduate studies:</strong></p>
