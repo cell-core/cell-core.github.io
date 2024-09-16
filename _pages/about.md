@@ -193,6 +193,11 @@ My research instreset focus on robotics control, multi-agent and computer vision
         height: 200px; /* 设置图片高度 */
         object-fit: cover;  /* 确保图片在调整大小时保持宽高比 */
       }
+      .project .date-icon { /* 特定的日历图标样式 */
+        width: 20px; 
+        height: auto;
+        margin-right: 8px;
+      }
       /*.project p {
           font-size: 14px;
           color: #666;
@@ -202,7 +207,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="project" id="project0">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></strong></p>
   <div class="logo-container">
-    <img src="/images/calendar.png" alt="Date Icon" class="logo">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Sep 2023 - Jul 2024</span>
   </div>
   <p>Key words: Autonomous driving; multi-agent navigation; motion planning</p>
@@ -212,7 +217,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="project" id="project1">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-1">The 21st China University Robot Competition (Robocon), First Prize (5th)</a></strong></p>
   <div class="logo-container">
-    <img src="/images/calendar.png" alt="Date Icon" class="logo">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Sep 2021 - Jul 2022</span>
   </div>
   <p>Key words: Robot design & control; computer vision</p>
@@ -222,7 +227,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="project" id="project2">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-2">The 20th China University Robot Competition (Robocon), Second Prize</a></strong></p>
   <div class="logo-container">
-    <img src="/images/calendar.png" alt="Date Icon" class="logo">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Sep 2020 - Jul 2021</span>
   </div>
   <p>Key words: Robot design & control; computer vision</p>
@@ -233,7 +238,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="project">
   <p><strong>Robot grasping in complex environment</strong></p>
   <div class="logo-container">
-    <img src="/images/calendar.png" alt="Date Icon" class="logo">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Jun 2024 - Present</span>
   </div>
   <p>Key words: Robot grasping; Object detection</p>
@@ -243,7 +248,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="project">
   <p><strong>Human-computer dialogue system</strong></p>
   <div class="logo-container">
-    <img src="/images/calendar.png" alt="Date Icon" class="logo">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Jun 2022 - May 2023</span>
   </div>
   <p>Key words: Natural language processing</p>
