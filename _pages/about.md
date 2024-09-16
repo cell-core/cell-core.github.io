@@ -11,62 +11,61 @@ My name is Zhezhi Lei. I am currently persuing my M.S. degree in Computer Engine
 
 Currently, I am working on an NUS student research project at Singapore Institute of Manufacturing Technology (SimTech) at the Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), where I collaborate with [Dr. Haiyue Zhu](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ) on projects focusing on object detection in robot grasping.
 
-# Research Intreset
-My research instreset focus on robotics control, multi-agent and robot detection. 
+My research instreset focus on robotics control, multi-agent and computer vision. 
 
 # Recent Work 
 (Update in September 2024)
 - **In progress**: Object pose detection in robot grasping in the context of stacked workpieces (Supervised by Dr. Haiyue Zhu). Planned for submission to IROS.
-- **Awaiting feedback**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
+- **Under review**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024 (Supervised by Prof. Shuzhi Sam Ge).
 
 # <a id="Experience"></a> Education & Experience
-<head>
-<style>
-.details {
-    overflow: hidden;
-    background-color: #f1f1f1;
-    padding: 0 10px;
-    max-height: 0;
-    transition: max-height 0.5s ease-out; /* 使用max-height和过渡效果实现滑动效果 */
-}
-.summary {
-    background-color: #e9e9e9;
-    padding: 10px;
-    margin-top: 5px;
-}
-</style>
-</head>
-<body>
+<p><strong>National University of Singapore, 2023 - Present</strong></p>
+<p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
-<h2>Education Background</h2>
-<div class="summary">
-    <strong>M.S. School:</strong> National University of Singapore<br>
-    <strong>Major:</strong> Computer Engineering<br>
-    <strong>Time:</strong> August 2023 - December 2024 (expected)<br>
-    <strong>GPA:</strong> 4.55/5
-</div>
-<button onclick="toggleDetails('educationDetails')">View More/Less</button>
-<div id="educationDetails" class="details">
-    <p><strong>Detailed Experience:</strong></p>
-    <ul>
-        <li>Participated in advanced robotics research projects focusing on AI applications.</li>
-        <li>Developed software for autonomous drones as part of a capstone project.</li>
-        <li>Contributed to open-source projects relevant to real-time data processing.</li>
-    </ul>
-</div>
+<p><strong>Experience during master's studies:</strong></p>
 
-<script>
-function toggleDetails(id) {
-    var element = document.getElementById(id);
-    if (element.style.maxHeight && element.style.maxHeight !== '0px') {
-        element.style.maxHeight = '0';
-    } else {
-        element.style.maxHeight = element.scrollHeight + 'px'; // 设置为实际高度以实现展开
-    }
-}
-</script>
+<details>
+  <summary>2024 - Present. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
+  <ul>
+    <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
+    <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
+  </ul>
+</details>
 
-</body>
+<details>
+  <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
+  <ul>
+    <li>Researched multi-agent motion planning problems under uncertainty.</li>
+    <li>Developed a novel ADMM-based method, which demonstrated higher computational efficiency compared to existing methods.</li>
+    <li>Submitted related work to IEEE Robotics and Automation Letters (RAL) as the first author.</li>
+  </ul>
+</details>
+
+<p><strong>Harbin Engineering University, 2019 - 2023</strong></p>
+<p>B.E. in Robotics Engineering | GPA: 89/100</p>
+
+<p><strong>Experience during undergraduate studies:</strong></p>
+
+<details>
+  <summary>2021 - 2022. Lead of the Robot Vision Group, Harbin Engineering University Robotics Club</summary>
+  <ul>
+    <li>Led the development of the robot vision strategy and coordinated team efforts in implementing the design.</li>
+    <li>Spearheaded robot perception systems, focusing on target recognition and inspection tasks.</li>
+    <li>Awarded First Prize (5th overall) at the 21st China University Robot Competition (ROBOCON).</li>
+  </ul>
+</details>
+
+<details>
+  <summary>2020 - 2021. Member of Harbin Engineering University Robotics Club</summary>
+  <ul>
+    <li>Developed algorithms for robot target detection and tracking.</li>
+    <li>Assisted in robot control implementation using microcontroller-based systems.</li>
+    <li>Awarded Second Prize at the 20th China University Robot Competition (ROBOCON).</li>
+  </ul>
+</details>
+
+
+
 
 # <a id="Project"></a> Project
 ## Highlighted Projects
@@ -77,5 +76,5 @@ function toggleDetails(id) {
 ## More Projects
 
 # <a id="Contact"></a> Contact
-
+Email: lei_zhezhi@u.nus.edu
 
