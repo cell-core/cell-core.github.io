@@ -34,6 +34,10 @@ My research instreset focus on robotics control, multi-agent and computer vision
             margin-right: 8px; /* 控制 logo 和文字之间的间距 */
             vertical-align: middle;
         }
+        details details { /* 为嵌套的details设置样式，以区别于一级details */
+            margin-left: 20px;
+            margin-top: 10px;
+        }
     </style>
 </head>
 
@@ -44,25 +48,26 @@ My research instreset focus on robotics control, multi-agent and computer vision
 </div>
 <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
-<p><strong>Experience during master's studies:</strong></p>
 
 <details>
-  <summary>2024 - Present. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
-  <ul>
-    <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
-    <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
-  </ul>
-</details>
+  <p><strong>Experience during master's studies:</strong></p>
+  <details>
+    <summary>2024 - Present. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
+    <ul>
+      <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
+      <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
+    </ul>
+  </details>
 
-<details>
-  <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
-  <ul>
-    <li>Researched multi-agent motion planning problems under uncertainty.</li>
-    <li>Developed a novel ADMM-based method, which demonstrated higher computational efficiency compared to existing methods.</li>
-    <li>Submitted related work to IEEE Robotics and Automation Letters (RAL) as the first author.</li>
-  </ul>
+  <details>
+    <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
+    <ul>
+      <li>Researched multi-agent motion planning problems under uncertainty.</li>
+      <li>Developed a novel ADMM-based method, which demonstrated higher computational efficiency compared to existing methods.</li>
+      <li>Submitted related work to IEEE Robotics and Automation Letters (RAL) as the first author.</li>
+    </ul>
+  </details>
 </details>
-
 
 
 <div class="logo-container extra-space">
@@ -71,24 +76,25 @@ My research instreset focus on robotics control, multi-agent and computer vision
 </div>
 <p>B.E. in Robotics Engineering | GPA: 89/100</p>
 
-<p><strong>Experience during undergraduate studies:</strong></p>
-
 <details>
-  <summary>2021 - 2022. Lead of the Robot Vision Group, Harbin Engineering University Robotics Club</summary>
-  <ul>
-    <li>Led the development of the robot vision strategy and coordinated team efforts in implementing the design.</li>
-    <li>Spearheaded robot perception systems, focusing on target recognition and inspection tasks.</li>
-    <li>Awarded First Prize (5th overall) at the 21st China University Robot Competition (ROBOCON).</li>
-  </ul>
-</details>
+  <p><strong>Experience during undergraduate studies:</strong></p>
+  <details>
+    <summary>2021 - 2022. Lead of the Robot Vision Group, Harbin Engineering University Robotics Club</summary>
+    <ul>
+      <li>Led the development of the robot vision strategy and coordinated team efforts in implementing the design.</li>
+      <li>Spearheaded robot perception systems, focusing on target recognition and inspection tasks.</li>
+      <li>Awarded First Prize (5th overall) at the 21st China University Robot Competition (ROBOCON).</li>
+    </ul>
+  </details>
 
-<details>
-  <summary>2020 - 2021. Member of Harbin Engineering University Robotics Club</summary>
-  <ul>
-    <li>Developed algorithms for robot target detection and tracking.</li>
-    <li>Assisted in robot control implementation using microcontroller-based systems.</li>
-    <li>Awarded Second Prize at the 20th China University Robot Competition (ROBOCON).</li>
-  </ul>
+  <details>
+    <summary>2020 - 2021. Member of Harbin Engineering University Robotics Club</summary>
+    <ul>
+      <li>Developed algorithms for robot target detection and tracking.</li>
+      <li>Assisted in robot control implementation using microcontroller-based systems.</li>
+      <li>Awarded Second Prize at the 20th China University Robot Competition (ROBOCON).</li>
+    </ul>
+  </details>
 </details>
 
 
