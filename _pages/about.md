@@ -60,6 +60,17 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 
   <details>
+    <summary>Course details </summary>
+    <ul>
+      <li>Computer Engineering Project -- A+</li>
+      <li>Intelligent Autonomous Robotics Systems -- A+</li>
+      <li>Computer Engineering Project -- A+</li>
+      <li>Evolutionary Computation And Application -- A-</li>
+      <li>Deep Learning For Digitalization Technologies -- A-</li>
+    </ul>
+  </details>
+
+  <details>
     <summary>Experience details </summary>
     <p><strong>Experience during master's studies:</strong></p>
     <details>
@@ -112,7 +123,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
 # <a id="Project"></a> Highlighted Projects
 <div class="project">
-  <h2><a href="https://cell-core.github.io/portfolio/portfolio-0.html">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></h2>
+  <h2><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></h2>
   <p>Breif Intro</p>
   <img src="/images/cell-core.github.io/images/500x300.png">
 </div>
