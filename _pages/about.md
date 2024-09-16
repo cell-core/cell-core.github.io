@@ -74,8 +74,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
   <details>
     <summary>Course details</summary>
-    <style>
-    </style>
+    <p><strong>Course highlighted:</strong></p>
     <table class="courses-table">
       <tr>
         <th>Course Name</th>
@@ -111,7 +110,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
     <details>
       <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
       <ul>
-        <li>Researched multi-agent motion planning problems under uncertainty.</li>
+        <li>Researched multi-agent motion planning problems under uncertainty. (<a href="#project0">More about the project</a>)</li>
         <li>Developed a novel ADMM-based method, which demonstrated higher computational efficiency compared to existing methods.</li>
         <li>Submitted related work to IEEE Robotics and Automation Letters (RAL) as the first author.</li>
       </ul>
@@ -127,8 +126,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 
   <details>
     <summary>Course details</summary>
-    <style>
-    </style>
+    <p><strong>Course highlighted:</strong></p>
     <table class="courses-table">
       <tr>
         <th>Course Name</th>
@@ -157,7 +155,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
     <details>
       <summary>2021 - 2022. Lead of the Robot Vision Group, Harbin Engineering University Robotics Club</summary>
       <ul>
-        <li>Led the development of the robot vision strategy and coordinated team efforts in implementing the design.</li>
+        <li>Led the development of the robot vision strategy and coordinated team efforts in implementing the design. (<a href="#project1">More about the project</a>)</li>
         <li>Spearheaded robot perception systems, focusing on target recognition and inspection tasks.</li>
         <li>Awarded First Prize (5th overall) at the 21st China University Robot Competition (ROBOCON).</li>
       </ul>
@@ -165,7 +163,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
     <details>
       <summary>2020 - 2021. Member of Harbin Engineering University Robotics Club</summary>
       <ul>
-        <li>Developed algorithms for robot target detection and tracking.</li>
+        <li>Developed algorithms for robot target detection and tracking. (<a href="#project2">More about the project</a>)</li>
         <li>Assisted in robot control implementation using microcontroller-based systems.</li>
         <li>Awarded Second Prize at the 20th China University Robot Competition (ROBOCON).</li>
       </ul>
@@ -184,32 +182,32 @@ My research instreset focus on robotics control, multi-agent and computer vision
             border: 1px solid #ccc;
             background-color: #f9f9f9;
         }
-        .project p {
-            font-size: 14px;
-            color: #666;
-        }
         .project img {
             width: 300px;  /* 设置图片宽度 */
             height: 200px; /* 设置图片高度 */
             object-fit: cover;  /* 确保图片在调整大小时保持宽高比 */
         }
+        /*.project p {
+            font-size: 14px;
+            color: #666;
+        }*/
     </style>
 </head>
-<div class="project">
+<div class="project" id="project0">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></strong></p>
-  <p>Breif Intro</p>
-  <img src="/images/500x300.png">
+  <p>Key words: Autonomous driving; multi-agent navigation; motion planning</p>
+  <img src="/images/ACL/ACL.png">
 </div>
 
-<div class="project">
+<div class="project" id="project1">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-1">The 21st China University Robot Competition (Robocon), First Prize (5th)</a></strong></p>
-  <p>Breif Intro</p>
+  <p>Key words: Robot design & control; computer vision</p>
   <img src="/images/21stRobocon/21stRobocon.png">
 </div>
 
-<div class="project">
+<div class="project" id="project2">
   <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-2">The 20th China University Robot Competition (Robocon), Second Prize</a></strong></p>
-  <p>Breif Intro</p>
+  <p>Key words: Robot design & control; computer vision</p>
   <img src="/images/20thRobocon/20thRobocon.png">
 </div>
 
