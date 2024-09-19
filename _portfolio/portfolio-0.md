@@ -1,6 +1,6 @@
 ---
 title: "Safe motion planning for multi-vehicle autonomous driving in uncertain environments"
-excerpt: "First Author; Paper submitted to RAL on 15 August <br/><img src='/images/21stRobocon.png'>"
+excerpt: "First Author; Paper submitted to RAL on 15 August <br/><img src='/images/ACL/ACL.png'>"
 collection: portfolio
 ---
 <head>
@@ -39,6 +39,9 @@ Key contribution:
 ## Experience
 Here we present some experimental results. The experiments were simulated in Carla, where all vehicles used the ALCC algorithm for motion planning. As shown, the vehicles successfully navigate through the intersection without interfering with each other.
 
-
+<div align="center">
+    <img src="/images/ACL/result.gif" alt="Result gif" width="80%">
+    <p>Demo of the result</p>
+</div>
 
 More details about the methods and experiments will be updated when the paper is published ...
