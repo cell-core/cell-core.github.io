@@ -259,6 +259,6 @@ My research instreset focus on robotics control, multi-agent and computer vision
   <p>Abstract: A human-machine dialogue system was built for weather inquiries. The system can search for weather information based on user intent, actively guide users to complete their inquiry details, and support multi-turn dialogue. Even though Chat GPT is very popular today, by designing this system from scratch, I was able to gain a deep understanding of the principles and best practices in human-machine interaction. </p>
 </div>
 
-<h1 style="background-color: #e0e0e0;"> <a id="Contract"></a> Contract</h1>
+<h1 style="background-color: #e0e0e0;"> <a id="Contact"></a> Contact</h1>
 Email: lei_zhezhi@u.nus.edu
 
