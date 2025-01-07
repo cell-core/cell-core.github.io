@@ -10,15 +10,17 @@ redirect_from:
 
 My name is Zhezhi Lei. I am currently persuing my M.S. degree in Computer Engineering at National University of Singapore (NUS), with an expected graduation in December 2024. During my master's studies, I am a member of Control & Simulation Lab, supervised by [Professor Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/), where I conducted research on motion planning with uncertainty in multi-agent systems. Before coming to NUS, I received my B.E. degree in Robotics Engineering from Harbin Engineering University, China.
 
-Currently, I am working on an NUS student research project at Singapore Institute of Manufacturing Technology (SimTech) at the Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), where I collaborate with [Dr. Haiyue Zhu](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ) on projects focusing on object detection in robot grasping.
+<!-- Currently, I am working on an NUS student research project at Singapore Institute of Manufacturing Technology (SimTech) at the Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), where I collaborate with [Dr. Haiyue Zhu](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ) on projects focusing on object detection in robot grasping. -->
+
+Currently, I am working as a research assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), supervised by [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ).
 
 My research instreset focus on robotics control, multi-agent and computer vision. 
 
 <h1 style="background-color: #e0e0e0;">Recent Work </h1>
 
 (Update in September 2024)
-- **In progress**: Object pose detection in robot grasping in the context of stacked workpieces. Planned for submission to IROS.
-- **Under review**: Safe motion planning for multi-vehicle autonomous driving in uncertain environments. Submitted to IEEE Robotics and Automation Letters (RAL) on 15 August 2024.
+- **Paper Accepted**: Our paper, "Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment," has been accepted by IEEE RAL! 
+
 
 <h1 style="background-color: #e0e0e0;"><a id="Experience"></a> Education & Experience</h1>
 
