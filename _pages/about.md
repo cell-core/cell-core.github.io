@@ -8,18 +8,22 @@ redirect_from:
 ---
 <h1 style="background-color: #e0e0e0;"><a id="Home"></a> About Me</h1>
 
-My name is Zhezhi Lei. I am currently persuing my M.S. degree in Computer Engineering at National University of Singapore (NUS), with an expected graduation in December 2024. During my master's studies, I am a member of Control & Simulation Lab, supervised by [Professor Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/), where I conducted research on motion planning with uncertainty in multi-agent systems. Before coming to NUS, I received my B.E. degree in Robotics Engineering from Harbin Engineering University, China.
+<!-- My name is Zhezhi Lei. I am currently persuing my M.S. degree in Computer Engineering at National University of Singapore (NUS), with an expected graduation in December 2024. During my master's studies, I am a member of Control & Simulation Lab, supervised by [Professor Shuzhi Sam Ge](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/), where I conducted research on motion planning with uncertainty in multi-agent systems. Before coming to NUS, I received my B.E. degree in Robotics Engineering from Harbin Engineering University, China. -->
 
 <!-- Currently, I am working on an NUS student research project at Singapore Institute of Manufacturing Technology (SimTech) at the Agency for Science, Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), where I collaborate with [Dr. Haiyue Zhu](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ) on projects focusing on object detection in robot grasping. -->
 
-Currently, I am working as a research assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), supervised by [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ).
+My name is Zhezhi LEI. I received the B.Eng. degree in robotic engineering from the Harbin Engineering University, China, in 2023, and the M.Sc. degree in computer engineering from the National University of Singapore, Singapore, in 2025.
 
-My research instreset focus on robotics control, multi-agent and computer vision. 
+Currently, I am working as a research assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), supervised by [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
+
+Before joining HKUST (GZ), I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).
+
+My research interests focus on robotics control, reinforcement learning, and computer vision.
 
 <h1 style="background-color: #e0e0e0;">Recent Work </h1>
 
-(Update in September 2024)
-- **Paper Accepted**: Our paper, "Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment," has been accepted by IEEE RAL! 
+(Update in Jan 2025)
+- **Paper Accepted (Jan 2025)**: Our paper, "Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment," has been accepted by IEEE RAL! 
 
 
 <h1 style="background-color: #e0e0e0;"><a id="Experience"></a> Education & Experience</h1>
@@ -77,7 +81,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
 <div class="education-block">
   <div class="logo-container">
       <img src="/images/favicon.png" alt="NUS Logo" class="logo">
-      <span><strong>National University of Singapore, 2023 - Present</strong></span>
+      <span><strong>National University of Singapore, 2023 - 2025</strong></span>
   </div>
   <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
@@ -111,14 +115,14 @@ My research instreset focus on robotics control, multi-agent and computer vision
     <summary>Experience details </summary>
     <p><strong>Experience during master's studies:</strong></p>
     <details>
-      <summary>2024 - Present. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
+      <summary>2024 - 2024. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
       <ul>
         <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
         <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
       </ul>
     </details>
     <details>
-      <summary>2023 - Present. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
+      <summary>2023 - 2024. Member of Control & Simulation Lab, supervised by Prof. Shuzhi Sam Ge</summary>
       <ul>
         <li>Researched multi-agent motion planning problems under uncertainty. (<a href="#project0">More about the project</a>)</li>
         <li>Developed a novel ADMM-based method, which demonstrated higher computational efficiency compared to existing methods.</li>
@@ -245,7 +249,7 @@ My research instreset focus on robotics control, multi-agent and computer vision
   <p><strong>Robot grasping in complex environment</strong></p>
   <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
-    <span>Jun 2024 - Present</span>
+    <span>Jun 2024 - Dec 2024</span>
   </div>
   <p>Key words: Robot grasping; Object detection</p>
   <p>Abstract: In practical applications, robot arms often face issues of target occlusion in complex environments. This work aims to design a grasping algorithm that allows the robot arm to identify targets in real-world scenarios and has the capability to reason about object occlusion relationships, enabling the arm to correctly remove obstacles and grasp the target.</p>
