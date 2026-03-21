@@ -79,6 +79,22 @@ My research interests focus on robotics control, reinforcement learning, and com
 </head>
 
 <div class="education-block">
+
+  <div class="logo-container">
+      <img src="/images/work.jpg" alt="HKUST Logo" class="logo">
+      <span><strong>Hong Kong University of Science and Technology (Guangzhou), 2025</strong></span>
+  </div>
+  <p>Robotics and Autonomous Systems | Supervisor: Assistant Professor Jun MA</p>
+
+  <details>
+    <summary>Work details</summary>
+    <ul>
+      <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
+      <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
+    </ul>
+  </details>
+
+
   <div class="logo-container">
       <img src="/images/favicon.png" alt="NUS Logo" class="logo">
       <span><strong>National University of Singapore, 2023 - 2025</strong></span>
@@ -183,6 +199,7 @@ My research interests focus on robotics control, reinforcement learning, and com
       </ul>
     </details>
   </details>
+
 </div>
 
 
@@ -213,13 +230,28 @@ My research interests focus on robotics control, reinforcement learning, and com
       }*/
     </style>
 </head>
+
+<div class="project" id="project3">
+  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-3">Dual-Quadruped Collaborative Transportation in Narrow Environments via Safe Reinforcement Learning</a></strong></p>
+  <div class="logo-container">
+    <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
+    <span>Jan 2025 - Nov 2025</span>
+  </div>
+  <p>Publication: Submitted to a journal in robotics. (Under review)</p>
+  <p>Authors: <strong>Zhezhi Lei</strong>, Zhihai Bi, Wenxin Wang and Jun Ma</p>
+  <p>Key words: Multi-Robot Systems; Legged Robots; Reinforcement Learning</p>
+  <img src="/images/dual-quad/illustration3.jpg">
+</div>
+
 <div class="project" id="project0">
-  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe motion planning for multi-vehicle autonomous driving in uncertain environments</a></strong></p>
+  <p><strong><a href="https://cell-core.github.io/portfolio/portfolio-0">Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment</a></strong></p>
   <div class="logo-container">
     <img src="/images/calendar.png" alt="Date Icon" class="logo date-icon">
     <span>Sep 2023 - Jul 2024</span>
   </div>
-  <p>Key words: Autonomous driving; multi-agent navigation; motion planning</p>
+  <p>Publication: IEEE Robotics and Automation Letters</p>
+  <p>Authors: <strong>Zhezhi Lei</strong>, Wenxin Wang, Zicheng Zhu, Jun Ma and Shuzhi Ge</p>
+  <p>Key words: Autonomous Driving; Multi-Agent Navigation; Motion Planning</p>
   <img src="/images/ACL/ACL.png">
 </div>
 
