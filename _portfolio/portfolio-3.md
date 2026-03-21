@@ -22,7 +22,10 @@ collection: portfolio
 <img src="/images/calendar.png" alt="Date Icon" class="logo">
 <span>Jan 2025 - Nov 2025</span>
 </div>
-<p>Publication: Under review at a journal in robotics [(Arxiv preprint link)](https://arxiv.org/abs/2602.16353)</p>
+<p>
+  Publication: Under review at a journal in robotics 
+  <a href="https://arxiv.org/abs/2602.16353">(Arxiv preprint link)</a>
+</p>
 <p>Authors: <strong>Zhezhi Lei</strong>, Zhihai Bi, Wenxin Wang and Jun Ma</p>
 <p><strong>Key words:</strong> Multi-Robot Systems; Legged Robots; Reinforcement Learning</p>
 
@@ -42,6 +45,22 @@ Key contribution:
 Experiments demonstrate that our approach achieves higher success rates, lower collision rates, and more efficient trajectories compared to existing methods. The robot team can adaptively adjust formation and maintain stable coordination in complex, constrained environments.
 
 <div align="center">
-    <img src="/images/dual-quad/gate.gif" alt="gate" width="80%">
-    <p>Fig.1. Gate Scenario</p>
+    <video width="80%" autoplay loop muted playsinline>
+        <source src="/images/dual-quad/gate.mp4" type="video/mp4">
+    </video>
+    <p>Gate Scenario</p>
+</div>
+
+<div align="center">
+    <video width="80%" autoplay loop muted playsinline>
+        <source src="/images/dual-quad/corridor.mp4" type="video/mp4">
+    </video>
+    <p>Corridor Scenario</p>
+</div>
+
+<div align="center">
+    <video width="80%" autoplay loop muted playsinline>
+        <source src="/images/dual-quad/forest.mp4" type="video/mp4">
+    </video>
+    <p>Forest Scenario</p>
 </div>

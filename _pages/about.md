@@ -240,7 +240,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Publication: Submitted to a journal in robotics. (Under review)</p>
   <p>Authors: <strong>Zhezhi Lei</strong>, Zhihai Bi, Wenxin Wang and Jun Ma</p>
   <p>Key words: Multi-Robot Systems; Legged Robots; Reinforcement Learning</p>
-  <img src="/images/dual-quad/illustration3.jpg">
+  <img src="/images/dual-quad/forest.svg" style="width:100%; height:auto;">
 </div>
 
 <div class="project" id="project0">

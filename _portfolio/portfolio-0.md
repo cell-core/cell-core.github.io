@@ -22,7 +22,10 @@ collection: portfolio
 <img src="/images/calendar.png" alt="Date Icon" class="logo">
 <span>Sep 2023 - Jul 2024</span>
 </div>
-<p>Publication: IEEE Robotics and Automation Letters [(Paper)](https://ieeexplore.ieee.org/document/10838711)</p>
+<p>
+  Publication: IEEE Robotics and Automation Letters 
+  <a href="https://ieeexplore.ieee.org/document/10838711">(Paper)</a>
+</p>
 <p>Authors: <strong>Zhezhi Lei</strong>, Wenxin Wang, Zicheng Zhu, Jun Ma and Shuzhi Ge</p>
 <p><strong>Key words:</strong> Autonomous Driving; Multi-Agent Navigation; Motion Planning</p>
 
@@ -43,22 +46,22 @@ The experiments were simulated in Carla, where all vehicles used the ALCC algori
 
 <div align="center">
     <img src="/images/ACL/result.gif" alt="Result gif" width="80%">
-    <p>Fig.1. Carla simulation results for 8 vehicles</p>
+    <p>Fig.1. Carla simulation result for 8 vehicles</p>
 </div>
 
 <div align="center">
-    <img src="/images/ACL/s2plot_final.eps" alt="traj" width="80%">
+    <img src="/images/ACL/s2plot_final.jpg" alt="traj" width="80%">
     <p>Fig.2. Vehicle trajectories vs. ADMM iterations</p>
 </div>
 
 Figure 3 shows the changes in control inputs during vehicle driving, indicating that input constraints are met. Figure 4 shows the changes in algorithm residuals with ADMM iterations. The decreasing residuals indicate that the ADMM algorithm tends to converge.
 
 <div align="center">
-    <img src="/images/ACL/result.gif" alt="Result gif" width="80%">
-    <p>Fig.3. Variations in steering angle $\delta$ and acceleration $a$</p>
+    <img src="/images/ACL/s2states_final.jpg" alt="states" width="80%">
+    <p>Fig.3. Variations in steering angle &delta and acceleration a</p>
 </div>
 
 <div align="center">
-    <img src="/images/ACL/s2plot_final.eps" alt="traj" width="80%">
+    <img src="/images/ACL/s2residual_final.jpg" alt="residual" width="80%">
     <p>Fig.4. ADMM prime residuals vs. iteration count</p>
 </div>
