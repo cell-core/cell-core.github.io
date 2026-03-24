@@ -8,6 +8,9 @@ main:
   - title: "Home"
     url: "#Home"
 
+  - title: "Education"
+    url: "#Education"
+
   - title: "Experience"
     url: "#Experience"
 

@@ -18,7 +18,7 @@ My name is Zhezhi LEI. I received the B.Eng. degree in robotic engineering from 
 
 Before joining HKUST (GZ), I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).-->
 
-I previously served as a Research Assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), under the supervision of [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
+I previously served as a Research Assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology (Guangzhou, HKUST(GZ)), under the supervision of [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
 Prior to this, I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).
 
 My research interests focus on robotics control, reinforcement learning, and computer vision.
@@ -193,11 +193,11 @@ My research interests focus on robotics control, reinforcement learning, and com
 </div>
 
 
-<h1 style="background-color: #e0e0e0;"><a id="Academic Experience"></a>Academic Experience</h1>
+<h1 style="background-color: #e0e0e0;"><a id="Experience"></a>Academic Experience</h1>
 
   <div class="logo-container">
       <img src="/images/work.jpg" alt="Work Logo" class="logo">
-      <span><strong>Hong Kong University of Science and Technology (Guangzhou) (HKUST-Guangzhou), China, 2025-2026</strong></span>
+      <span><strong>Hong Kong University of Science and Technology (Guangzhou, HKUST(GZ)), China, 2025-2026</strong></span>
   </div>
   <p>Robot Motion Planning and Control Lab | Position: Research Assistant | Supervisor: Assistant Professor Jun MA</p>
   <ul>
@@ -262,7 +262,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Publication: Submitted to a journal in robotics. (Under review)</p>
   <p>Authors: <strong>Zhezhi Lei</strong>, Zhihai Bi, Wenxin Wang and Jun Ma</p>
   <p>Key words: Multi-Robot Systems; Legged Robots; Reinforcement Learning</p>
-  <img src="/images/dual-quad/forest.svg" style="width:auto; height:100%;">
+  <img src="/images/dual-quad/forest.png">
 </div>
 
 <div class="project" id="project0">
