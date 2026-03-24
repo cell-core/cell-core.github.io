@@ -41,6 +41,11 @@ Key contribution:
 - We develop a constraint allocation mechanism that distributes shared constraint budgets among robots, encouraging autonomous task assignment and improving collaborative performance through implicit coordination.
 - We validate the proposed approach through both real-world experiments, demonstrating superior task performance and safety compared to existing methods.
 
+<div align="center">
+    <img src="/images/dual-quad/illustration3.jpg" alt="framework" width="80%">
+    <p>Proposed Framework</p>
+</div>
+
 ## Experiments
 Experiments demonstrate that our approach achieves higher success rates, lower collision rates, and more efficient trajectories compared to existing methods. The robot team can adaptively adjust formation and maintain stable coordination in complex, constrained environments.
 

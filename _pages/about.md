@@ -14,19 +14,22 @@ redirect_from:
 
 My name is Zhezhi LEI. I received the B.Eng. degree in robotic engineering from the Harbin Engineering University, China, in 2023, and the M.Sc. degree in computer engineering from the National University of Singapore, Singapore, in 2025.
 
-Currently, I am working as a research assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), supervised by [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
+<!--Currently, I am working as a research assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), supervised by [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
 
-Before joining HKUST (GZ), I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).
+Before joining HKUST (GZ), I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).-->
+
+I previously served as a Research Assistant in the [Robot Motion Planning and Control Lab](https://personal.hkust-gz.edu.cn/junma/index.html) at The Hong Kong University of Science and Technology(Guangzhou, HKUST(GZ)), under the supervision of [Assistant Professor Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ). 
+Prior to this, I was a member of the Control & Simulation Lab at the National University of Singapore, supervised by [Professor Shuzhi Sam GE](https://cde.nus.edu.sg/ece/staff/ge-shuzhi-sam/). I was also part of the Singapore Institute of Manufacturing Technology (SimTech) under the Agency for Science, Technology and Research (A*STAR), where I worked under the supervision of [Senior Scientist Haiyue ZHU](https://scholar.google.com/citations?hl=en&user=uO_R9wQAAAAJ).
 
 My research interests focus on robotics control, reinforcement learning, and computer vision.
 
-<h1 style="background-color: #e0e0e0;">Recent Work </h1>
+<!-- <h1 style="background-color: #e0e0e0;">Recent Work </h1>
 
 (Update in Jan 2025)
-- **Paper Accepted (Jan 2025)**: Our paper, "Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment," has been accepted by IEEE RAL! 
+- **Paper Accepted (Jan 2025)**: Our paper, "Safe Motion Planning for Multi-Vehicle Autonomous Driving in Uncertain Environment," has been accepted by IEEE RAL!  -->
 
 
-<h1 style="background-color: #e0e0e0;"><a id="Experience"></a> Education & Experience</h1>
+<!-- <h1 style="background-color: #e0e0e0;"><a id="Experience"></a> Education</h1> -->
 
 <head>
     <style>
@@ -78,26 +81,13 @@ My research interests focus on robotics control, reinforcement learning, and com
     </style>
 </head>
 
+<h1 style="background-color: #e0e0e0;"><a id="Education"></a>Education</h1>
+
 <div class="education-block">
 
   <div class="logo-container">
-      <img src="/images/work.jpg" alt="HKUST Logo" class="logo">
-      <span><strong>Hong Kong University of Science and Technology (Guangzhou), 2025</strong></span>
-  </div>
-  <p>Robotics and Autonomous Systems | Supervisor: Assistant Professor Jun MA</p>
-
-  <details>
-    <summary>Work details</summary>
-    <ul>
-      <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
-      <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
-    </ul>
-  </details>
-
-
-  <div class="logo-container">
       <img src="/images/favicon.png" alt="NUS Logo" class="logo">
-      <span><strong>National University of Singapore, 2023 - 2025</strong></span>
+      <span><strong>National University of Singapore, Singapore, 2023 - 2025</strong></span>
   </div>
   <p>M.S. in Computer Engineering | GPA: 4.56/5</p>
 
@@ -131,7 +121,7 @@ My research interests focus on robotics control, reinforcement learning, and com
     <summary>Experience details </summary>
     <p><strong>Experience during master's studies:</strong></p>
     <details>
-      <summary>2024 - 2024. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
+      <summary>2024. Visitor at Singapore Institute of Manufacturing Technology (SimTech), supervised by Dr. Haiyue Zhu</summary>
       <ul>
         <li>Conducted research on robot grasping, with a focus on object detection in complex environments.</li>
         <li>Currently in the experimental phase, with ongoing work to refine detection models and techniques.</li>
@@ -150,7 +140,7 @@ My research interests focus on robotics control, reinforcement learning, and com
 
   <div class="logo-container">
       <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
-      <span><strong>Harbin Engineering University, 2019 - 2023</strong></span>
+      <span><strong>Harbin Engineering University, China, 2019 - 2023</strong></span>
   </div>
   <p>B.E. in Robotics Engineering | GPA: 89/100</p>
 
@@ -203,6 +193,38 @@ My research interests focus on robotics control, reinforcement learning, and com
 </div>
 
 
+<h1 style="background-color: #e0e0e0;"><a id="Academic Experience"></a>Academic Experience</h1>
+
+  <div class="logo-container">
+      <img src="/images/work.jpg" alt="Work Logo" class="logo">
+      <span><strong>Hong Kong University of Science and Technology (Guangzhou) (HKUST-Guangzhou), China, 2025-2026</strong></span>
+  </div>
+  <p>Robot Motion Planning and Control Lab | Position: Research Assistant | Supervisor: Assistant Professor Jun MA</p>
+  <ul>
+    <li>Research Topic: Multi-agent reinforcement learning for collaborative robotic transportation</li>
+    <li>Publishment (First Author, Under Review): Z. Lei, Z. Bi, W. Wang, and J. Ma, “Dual-Quadruped Collaborative Transportation in Narrow Environments via Safe Reinforcement Learning,” arXiv preprint arXiv:2602.16353, 2026.</li>
+  </ul>
+
+  <div class="logo-container">
+      <img src="/images/work.jpg" alt="Work Logo" class="logo">
+      <span><strong>National University of Singapore (NUS), Singapore, 2023 - 2025</strong></span>
+  </div>
+  <p>Control & Simulation Lab | Position: Master Student | Supervisor: Professor Shuzhi Sam Ge</p>
+  <ul>
+    <li>Research Topic: Safety-critical multi-agent autonomous driving in uncertain environment</li>
+    <li>Publishment (First Author): Z. Lei, W. Wang, Z. Zhu, J. Ma, and S. S. Ge, "Safe motion planning for multi-vehicle autonomous driving in uncertain environment," IEEE Robotics and Automation Letters, vol. 10, pp. 2199–2206, 2025.</li>
+  </ul>
+
+  <div class="logo-container">
+      <img src="/images/work.jpg" alt="Work Logo" class="logo">
+      <span><strong>Agency for Science, Technology and Research (A*STAR), Singapore, 2024</strong></span>
+  </div>
+  <p>Singapore Institute of Manufacturing Technology | Position: Student Visitor | Supervisor: Senior Scientist Haiyue Zhu</p>
+  <ul>
+    <li>Research Topic: Autonomous robot grasping in multi-object scenarios.</li>
+    <li>Publishment: S. Liu, Z. Lei, H. Zhu, J. Ma, and Z. Lin, “SegmentAnything-Based Approach to Scene Understanding and Grasp Generation,” International Conference on Social Robotics, Singapore, Sep. 2024, pp. 24–30.</li>
+  </ul>
+
 
 <h1 style="background-color: #e0e0e0;"> <a id="Project"></a> Highlighted Projects</h1>
 
@@ -240,7 +262,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Publication: Submitted to a journal in robotics. (Under review)</p>
   <p>Authors: <strong>Zhezhi Lei</strong>, Zhihai Bi, Wenxin Wang and Jun Ma</p>
   <p>Key words: Multi-Robot Systems; Legged Robots; Reinforcement Learning</p>
-  <img src="/images/dual-quad/forest.svg" style="width:100%; height:auto;">
+  <img src="/images/dual-quad/forest.svg" style="width:auto; height:100%;">
 </div>
 
 <div class="project" id="project0">
