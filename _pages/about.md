@@ -59,6 +59,9 @@ My research interests focus on robotics control, reinforcement learning, and com
             margin-left: 20px;
             /*margin-top: 10px;*/
         }
+        li {
+          margin-top: -17px; /* 控制details元素上方的间距 */
+        }
         .courses-table {
           width: 100%;
           border-collapse: collapse;
