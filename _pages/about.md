@@ -205,6 +205,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Robot Motion Planning and Control Lab | Position: Research Assistant | Supervisor: Assistant Professor Jun MA</p>
   <ul>
     <li>Research Topic: Multi-agent reinforcement learning for collaborative robotic transportation</li>
+    <li>
     <details>
     <summary>Publishment: First-author paper under review at a journal in robotics.</summary>
     <ul>
@@ -214,6 +215,7 @@ My research interests focus on robotics control, reinforcement learning, and com
       <li><a href="https://arxiv.org/abs/2602.16353">(Arxiv preprint link)</a></li>
     </ul>
     </details>
+    </li>
   </ul>
 
   <div class="logo-container">
@@ -223,6 +225,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Control & Simulation Lab | Position: Master Student | Supervisor: Professor Shuzhi Sam Ge</p>
   <ul>
     <li>Research Topic: Safety-critical multi-agent autonomous driving in uncertain environment</li>
+    <li>
     <details>
     <summary>Publishment: First-author paper published in IEEE Robotics and Automation Letters (RA-L).</summary>
     <ul>
@@ -234,6 +237,7 @@ My research interests focus on robotics control, reinforcement learning, and com
       <li><a href="https://ieeexplore.ieee.org/document/10838711">(Paper Link)</a></li>
     </ul>
     </details>
+    </li>
   </ul>
 
   <div class="logo-container">
@@ -243,6 +247,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Singapore Institute of Manufacturing Technology | Position: Student Visitor | Supervisor: Senior Scientist Haiyue Zhu</p>
   <ul>
     <li>Research Topic: Autonomous robot grasping in multi-object scenarios.</li>
+    <li>
     <details>
     <summary>Publishment: Co-first-author paper in International Conference on Social Robotics.</summary>
     <ul>
@@ -251,6 +256,7 @@ My research interests focus on robotics control, reinforcement learning, and com
       </li>
     </ul>
     </details>
+    </li>
   </ul>
 
 
