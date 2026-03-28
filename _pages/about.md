@@ -205,14 +205,15 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Robot Motion Planning and Control Lab | Position: Research Assistant | Supervisor: Assistant Professor Jun MA</p>
   <ul>
     <li>Research Topic: Multi-agent reinforcement learning for collaborative robotic transportation</li>
-    <li>Publishment: First-author paper under review at a journal in robotics.</li>
-    <summary>Publishment: First-author paper published in IEEE Robotics and Automation Letters (RA-L).</summary>
+    <details>
+    <summary>Publishment: First-author paper under review at a journal in robotics.</summary>
     <ul>
       <li class="citation">
         <strong>Z. Lei</strong>, Z. Bi, W. Wang, and J. Ma, “Dual-Quadruped Collaborative Transportation in Narrow Environments via Safe Reinforcement Learning,” arXiv preprint arXiv:2602.16353, 2026.
       </li>
       <li><a href="https://arxiv.org/abs/2602.16353">(Arxiv preprint link)</a></li>
     </ul>
+    </details>
   </ul>
 
   <div class="logo-container">
@@ -222,6 +223,7 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Control & Simulation Lab | Position: Master Student | Supervisor: Professor Shuzhi Sam Ge</p>
   <ul>
     <li>Research Topic: Safety-critical multi-agent autonomous driving in uncertain environment</li>
+    <details>
     <summary>Publishment: First-author paper published in IEEE Robotics and Automation Letters (RA-L).</summary>
     <ul>
       <li class="citation">
@@ -231,6 +233,7 @@ My research interests focus on robotics control, reinforcement learning, and com
       </li>
       <li><a href="https://ieeexplore.ieee.org/document/10838711">(Paper Link)</a></li>
     </ul>
+    </details>
   </ul>
 
   <div class="logo-container">
@@ -240,12 +243,14 @@ My research interests focus on robotics control, reinforcement learning, and com
   <p>Singapore Institute of Manufacturing Technology | Position: Student Visitor | Supervisor: Senior Scientist Haiyue Zhu</p>
   <ul>
     <li>Research Topic: Autonomous robot grasping in multi-object scenarios.</li>
+    <details>
     <summary>Publishment: Co-first-author paper in International Conference on Social Robotics.</summary>
     <ul>
       <li class="citation">
         S. Liu, <strong>Z. Lei</strong>, H. Zhu, J. Ma, and Z. Lin, “SegmentAnything-Based Approach to Scene Understanding and Grasp Generation,” International Conference on Social Robotics, Singapore, Sep. 2024, pp. 24–30.
       </li>
     </ul>
+    </details>
   </ul>
 
 
