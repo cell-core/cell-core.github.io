@@ -219,6 +219,8 @@ My research interests focus on robotics control, reinforcement learning, and com
     </ul>
   </details>
 
+  <hr>
+
   <div class="logo-container">
       <img src="/images/work.jpg" alt="Work Logo" class="logo">
       <span><strong>National University of Singapore (NUS), Singapore, 2023 - 2025</strong></span>
@@ -238,6 +240,8 @@ My research interests focus on robotics control, reinforcement learning, and com
       <li><a href="https://ieeexplore.ieee.org/document/10838711">(Paper Link)</a></li>
     </ul>
   </details>
+
+  <hr>
 
   <div class="logo-container">
       <img src="/images/work.jpg" alt="Work Logo" class="logo">
