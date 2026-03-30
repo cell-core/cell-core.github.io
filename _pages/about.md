@@ -143,6 +143,7 @@ My research interests focus on robotics control, reinforcement learning, and com
     </details>
   </details>
 
+  <hr>
 
   <div class="logo-container">
       <img src="/images/favicon.png" alt="Harbin Engineering University Logo" class="logo">
@@ -209,8 +210,8 @@ My research interests focus on robotics control, reinforcement learning, and com
   <ul>
     <li>Research Topic: Multi-agent reinforcement learning for collaborative robotic transportation</li>
   </ul>
-  <details>
-    <summary>Publishment: First-author paper under review at a journal in robotics.</summary>
+  <details open>
+    <summary><strong>Publication</strong>: First-author paper under review at a journal in robotics.</summary>
     <ul>
       <li class="citation">
         <strong>Z. Lei</strong>, Z. Bi, W. Wang, and J. Ma, “Dual-Quadruped Collaborative Transportation in Narrow Environments via Safe Reinforcement Learning,” arXiv preprint arXiv:2602.16353, 2026.
@@ -229,8 +230,8 @@ My research interests focus on robotics control, reinforcement learning, and com
   <ul>
     <li>Research Topic: Safety-critical multi-agent autonomous driving in uncertain environment</li>
   </ul>
-  <details>
-    <summary>Publishment: First-author paper published in IEEE Robotics and Automation Letters (RA-L).</summary>
+  <details open>
+    <summary><strong>Publication</strong>: First-author paper published in IEEE Robotics and Automation Letters (RA-L).</summary>
     <ul>
       <li class="citation">
         <strong>Z. Lei</strong>, W. Wang, Z. Zhu, J. Ma, and S. S. Ge, 
@@ -251,8 +252,8 @@ My research interests focus on robotics control, reinforcement learning, and com
   <ul>
     <li>Research Topic: Autonomous robot grasping in multi-object scenarios.</li>
   </ul>
-  <details>
-    <summary>Publishment: Co-first-author paper in International Conference on Social Robotics.</summary>
+  <details open>
+    <summary><strong>Publication</strong>: Co-first-author paper in International Conference on Social Robotics.</summary>
     <ul>
       <li class="citation">
         S. Liu, <strong>Z. Lei</strong>, H. Zhu, J. Ma, and Z. Lin, “SegmentAnything-Based Approach to Scene Understanding and Grasp Generation,” International Conference on Social Robotics, Singapore, Sep. 2024, pp. 24–30.
